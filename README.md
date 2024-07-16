@@ -4,7 +4,7 @@ an image converter to save storage
 1.1版後整合pweg和pweg_multi為同一檔案  
 廢棄舊有的pweg，將舊的pweg_multi改為新版pweg  
 
-![Screenshot 2024-07-14 155232](https://github.com/user-attachments/assets/4b99063d-e678-4b0d-b3ed-a18c82d5666b)
+![Screenshot 2024-07-16 220437](https://github.com/user-attachments/assets/66706762-5b5e-4beb-b870-67e66f15c448)
 
 ## 主要功能
  - 批量轉換圖像格式
