@@ -62,9 +62,9 @@ def process_image(filename, src_path, dst_path, target_format, islossless):
         if islossless:
             converted_image.save(dstpath, 'WEBP', lossless=True)
         else:
-            converted_image.save(dstpath, 'WEBP', lossless=False, quality=95)
+            converted_image.save(dstpath, 'WEBP', lossless=False, quality=85)
     elif target_format.upper() == 'JPG':
-        converted_image.save(dstpath, 'JPEG', quality=95, optimize=True)
+        converted_image.save(dstpath, 'JPEG', quality=85, optimize=True)
     else:
         raise ValueError(f"Unsupported target format: {target_format}")
     
