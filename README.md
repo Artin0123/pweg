@@ -1,6 +1,8 @@
 # pweg
 an image converter to save storage
 
+自從作者(我)發現[這個](https://github.com/Lymphatus/caesium-image-compressor)之後，此repo變成小丑，不過還是很簡單好用(個人覺得)。
+
 1.1版後整合pweg和pweg_multi為同一檔案  
 廢棄舊有的pweg，將舊的pweg_multi改為新版pweg  
 
